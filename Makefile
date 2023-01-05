@@ -4,7 +4,7 @@ publish:
 lint:
 	npx eslint .
 
-lint-fix:
+fix:
 	npx eslint --fix .
 
 gendiff:
