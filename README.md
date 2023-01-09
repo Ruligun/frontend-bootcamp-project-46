@@ -11,7 +11,7 @@ Matching and displaying differences in two json or yaml files.
 ### Formats
 
 Default 
-[![asciicast](https://asciinema.org/a/Dtl6VoBuw6zzMxuoNy0UZQQbS.svg)](https://asciinema.org/a/Dtl6VoBuw6zzMxuoNy0UZQQbS)
+[![asciicast](https://asciinema.org/a/8gUyEJgcycGl8Zojr0tREWLJj.svg)](https://asciinema.org/a/8gUyEJgcycGl8Zojr0tREWLJj)
 
 JSON
 [![asciicast](https://asciinema.org/a/RCFVykLR6HmS6jos37xx8uMPO.svg)](https://asciinema.org/a/RCFVykLR6HmS6jos37xx8uMPO)
